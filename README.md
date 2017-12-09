@@ -15,6 +15,6 @@ source ENV27/bin/activate
 python index.py
 ```
 2. Open the browser
-3. Open http://localhost:8080/
+3. Open http://localhost:8000/
 
-**Port default 8080**
+**Port default 8000**
